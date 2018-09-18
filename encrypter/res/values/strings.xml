@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Encrypter</string>
+    <string name="encrypt">encrypt</string>
+    <string name="decrypt">decrypt</string>
+    <string name="clear">clear</string>
+    <string name="text">Send</string>
+    <string name="phonenumber">destination</string>
+    <string name="phonenumb">phone number</string>
+    <string name="hello">hello</string>
+</resources>
